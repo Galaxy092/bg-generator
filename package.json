@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaxy092/bg-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Galaxy092/bg-generator/issues"
+  },
+  "homepage": "https://github.com/Galaxy092/bg-generator#readme"
 }
